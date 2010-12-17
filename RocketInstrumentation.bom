@@ -1,0 +1,55 @@
+Partlist exported from /Users/Luke/Desktop/RocketInstrumentation.sch at 17/12/10 4:42 PM
+
+Part Value      Device                         Package          Description                                                                                
+B1   3 V Li     BATTERY12PTH                   BATTCON_12MM_PTH Battery Holders                                                                            
+C1   22 pF x 2  C-EU050-025X075                C050-025X075     CAPACITOR, European symbol                                                                 
+C2   22 pF      C-EU050-025X075                C050-025X075     CAPACITOR, European symbol                                                                 
+C3   100 nF     C-EU025-025X050                C025-025X050     CAPACITOR, European symbol                                                                 
+C4   100 nF     C-EU025-025X050                C025-025X050     CAPACITOR, European symbol                                                                 
+C5   100 nF     C-EU025-025X050                C025-025X050     CAPACITOR, European symbol                                                                 
+C6   10 uF      CPOL-EUE2.5-7                  E2,5-7           POLARIZED CAPACITOR, European symbol                                                       
+C7   10 uF 10 V CPOL-EUE2.5-7                  E2,5-7           POLARIZED CAPACITOR, European symbol                                                       
+C8   100 nF     C-EU025-025X050                C025-025X050     CAPACITOR, European symbol                                                                 
+C9   100 nF     C-EU025-025X050                C025-025X050     CAPACITOR, European symbol                                                                 
+C10  100 nF     C-EU025-025X050                C025-025X050     CAPACITOR, European symbol                                                                 
+C11  100 nF     C-EU025-025X050                C025-025X050     CAPACITOR, European symbol                                                                 
+C59  100 nF     C-EU025-025X050                C025-025X050     CAPACITOR, European symbol                                                                 
+D2   1N5819     DIODE-DO35-10                  DO35-10          DIODE                                                                                      
+IC1  DS1338     DS1307                         DIL08            DS1307                                                                                     
+IC2  ADXL345    ADXL345                        LGA14                                                                                                       
+IC3  LD1117S33  REG1117                        SOT223           800mA and 1A Low Dropout (LDO) Positive Regulator                                          
+IC4  ATmega328P ATMEGA48/88/168-PU             DIL28-3                                                                                                     
+IC5  HX1        HX1                            HX1                                                                                                         
+IC6  BMP085     BMP085                         BMP085                                                                                                      
+IC10 DS18S20    DS18S20                        TO92-            High Precision Digital Thermometer                                                         
+J2              22-23-2021                     22-23-2021       .100" (2.54mm) Center Header - 2 Pin                                                       
+LED1 Power      LED3MM                         LED3MM           LED                                                                                        
+LED2            LED3MM                         LED3MM           LED                                                                                        
+LED4 RSSI       LED3MM                         LED3MM           LED                                                                                        
+LED5 Assoc      LED3MM                         LED3MM           LED                                                                                        
+LED6 TM         LED3MM                         LED3MM           LED                                                                                        
+M1   XBEE-PRO   XBEE-PRO                       XBEE-PRO                                                                                                    
+Q1   8 MHz      CRYSTALHC49UV                  HC49U-V          Crystals                                                                                   
+Q2   2N3904     2N3904                         TO92             NPN TRANSISTOR                                                                             
+Q3   32.768 kHz CRYSTALTC38H                   TC38H            CRYSTAL                                                                                    
+R1   68 R       R-US_FLIPFLOP                  0805-THM         RESISTOR, American symbol                                                                  
+R2   22 k       R-US_FLIPFLOP                  0805-THM         RESISTOR, American symbol                                                                  
+R3   68 R       R-US_FLIPFLOP                  0805-THM         RESISTOR, American symbol                                                                  
+R4   10 k       R-US_FLIPFLOP                  0805-THM         RESISTOR, American symbol                                                                  
+R6   4.7 k      R-US_FLIPFLOP                  0805-THM         RESISTOR, American symbol                                                                  
+R7   10 k       R-US_FLIPFLOP                  0805-THM         RESISTOR, American symbol                                                                  
+R8   10 k       R-US_FLIPFLOP                  0805-THM         RESISTOR, American symbol                                                                  
+R9   100 R      R-US_FLIPFLOP                  0805-THM         RESISTOR, American symbol                                                                  
+R10  100 R      R-US_FLIPFLOP                  0805-THM         RESISTOR, American symbol                                                                  
+R11  4.7 k      R-US_FLIPFLOP                  0805-THM         RESISTOR, American symbol                                                                  
+R12  4.7 k      R-US_FLIPFLOP                  0805-THM         RESISTOR, American symbol                                                                  
+R13  470 R      R-US_FLIPFLOP                  0805-THM         RESISTOR, American symbol                                                                  
+R14  10 k       R-US_FLIPFLOP                  0805-THM         RESISTOR, American symbol                                                                  
+R15  1 k        R-US_0207/2V                   0207/2V          RESISTOR, American symbol                                                                  
+SJ1  Reset En   SJ                             SJ               SMD solder JUMPER                                                                          
+SJ2  Ext Power  SJ                             SJ               SMD solder JUMPER                                                                          
+U$1  FSA03      FSA03                          FSA03            Falcom FSA03 surface mount GPS with ublox chipset, part created by Landon Cox, ESawdust.com
+U$2  MICROSD    MICROSD                        MICROSD          Micro-SD / Transflash card holder with SPI pinout                                          
+X1   ANTENNA    LTI-SASF54GT                   LTI-SASF54GT     SMA vertical PCB thrue hole jack                                                           
+X2   Program    ARDUINO_SERIAL_PROGRAMLONGPADS 1X06_LONGPADS                                                                                               
+X6   ICSP       AVR_SPI_PRG_6PTH               2X3              AVR ISP 6 Pin                                                                              
