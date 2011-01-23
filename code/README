@@ -1,0 +1,29 @@
+
+ I have simply downloaded and mirrored all these Arduino libraries here for your convenience.
+
+ I make no promises that you have the latest version of these libraries!
+ However, all the libraries should be pretty much up to date and should work fine.
+
+ All credit for this code is due to the respective authors of these libraries!
+ Furthermore, all the licenses for these libraries are as specified by the authors!
+
+ SdFat: http://code.google.com/p/sdfatlib/
+
+ RTClib: http://github.com/adafruit/RTClib
+
+ Spi: http://www.arduino.cc/playground/Code/Spi
+
+ TinyGPS: http://arduiniana.org/libraries/tinygps/
+
+ Aiko: https://github.com/geekscape/aiko
+
+ DallasTemperature: http://milesburton.com/wiki/index.php?title=Dallas_Temperature_Control_Library#Introduction
+
+ OneWire: http://www.pjrc.com/teensy/td_libs_OneWire.html
+
+
+
+
+
+
+
