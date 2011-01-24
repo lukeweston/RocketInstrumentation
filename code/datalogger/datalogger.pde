@@ -319,7 +319,6 @@ void error(char *str)
   Serial.print("error: ");
   Serial.println(str);
 #endif
-  while(1); 
 }
 
 void bmp085_read_temperature_and_pressure(int* temperature, long* pressure)
